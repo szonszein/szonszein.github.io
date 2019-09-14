@@ -17,11 +17,11 @@ I study the political behavior of immigrants and elites in the context of the US
 'Voted In, Standing Out: Elite Response to Immigrants' Political Accession'
 <a href="https://drive.google.com/file/d/17pFAG8-O-bPpfmcJSc9OJMhi8xOuBtCC/view?usp=sharing" rel="nofollow">(Abstract)</a>
 
-## Peer-Reviewed Book Chapters
+## Commissioned Monographs and Book Chapters
 'Spillover Effects in Experimental Data', with Peter Aronow, Dean Eckles and Cyrus Samii. Chapter in preparation for Advances in Experimental Political Science, J. N. Druckman and D. P. Green, eds. Cambridge University Press.
 <a href="https://drive.google.com/file/d/18CAQNNZZxpMQZVvvozmQGrMmzs5EOmKs/view?usp=sharing" rel="nofollow">(Abstract)</a>
 
-'Causal Inference with Interference', with Peter Aronow and Cyrus Samii. Chapter in preparation for Cambridge Elements: Quantitative and Computational Methods for Social Science, R.M. Alvarez and N. Beck, eds. Cambridge University Press.
+'Causal Inference with Interference', with Peter Aronow and Cyrus Samii. Monograph in preparation for Cambridge Elements: Quantitative and Computational Methods for Social Science, R.M. Alvarez and N. Beck, eds. Cambridge University Press.
 
 ## Software
 *interference* R package: Compute estimators for causal inference under interference for experiments with network data, and two-stage experiments that first randomize treatment saturation of a group, then individual treatment assignment. With Peter Aronow and Cyrus Samii (Forthcoming).
