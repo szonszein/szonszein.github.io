@@ -11,7 +11,7 @@ I study the political behavior of immigrants and elites in the context of the US
 'Citizen Rights and Integration: The Case of Unauthorized Immigrants to the United States'
 <a href="https://drive.google.com/file/d/17PNc6cjDySqL_o3PyEbfuUTMt8O3MoUP/view?usp=sharing" rel="nofollow">(Working Draft PDF)</a>
 
-'Ethnic Media: Deterrent or Catalyst of Minnority Immigrants' Integration?'
+'Ethnic Media: Deterrent or Catalyst of Minority Immigrants' Integration?'
 <a href="https://drive.google.com/file/d/18XqzhsYsm9G8QrLK_agkqXHWyzmxQRgS/view?usp=sharing"  rel="nofollow">(Abstract)</a>
 
 'Voted In, Standing Out: Elite Response to Immigrants' Political Accession'
