@@ -9,19 +9,20 @@ I study the political behavior of immigrants and elites in the context of the US
 
 ## Working Papers
 'Taking Part without Blending In: Legalization Policies and the Integration of Immigrants'
-<a href="https://drive.google.com/file/d/17PNc6cjDySqL_o3PyEbfuUTMt8O3MoUP/view?usp=sharing" rel="nofollow">(Working Draft PDF)</a>
+<a href="https://drive.google.com/file/d/15U7CeHwPcSk8xpKCJmfaBbWdC8FWSEap/view?usp=sharing" rel="nofollow">(Working Draft)</a>
 
-'Ethnic Media: Deterrent or Catalyst of Minority Immigrants' Integration?'
+'Turn On, Tune In, Turn Out: Ethnic Radio and Immigrants’ Political Engagement'
 <a href="https://drive.google.com/file/d/18XqzhsYsm9G8QrLK_agkqXHWyzmxQRgS/view?usp=sharing"  rel="nofollow">(Abstract)</a>
 
 'Voted In, Standing Out: Elite Response to Immigrants' Political Accession'
 <a href="https://drive.google.com/file/d/17pFAG8-O-bPpfmcJSc9OJMhi8xOuBtCC/view?usp=sharing" rel="nofollow">(Abstract)</a>
 
 ## Commissioned Monographs and Book Chapters
-'Spillover Effects in Experimental Data', with Peter Aronow, Dean Eckles and Cyrus Samii. Chapter in preparation for Advances in Experimental Political Science, J. N. Druckman and D. P. Green, eds. Cambridge University Press.
-<a href="https://drive.google.com/file/d/18CAQNNZZxpMQZVvvozmQGrMmzs5EOmKs/view?usp=sharing" rel="nofollow">(Abstract)</a>
+'Spillover Effects in Experimental Data', with Peter Aronow, Dean Eckles and Cyrus Samii. Forthcoming in Advances in Experimental Political Science, J. N. Druckman and D. P. Green, eds. Cambridge University Press.
+<a href="https://arxiv.org/abs/2001.05444" rel="nofollow">(arxiv)</a>
 
 'Causal Inference with Interference', with Peter Aronow and Cyrus Samii. Monograph in preparation for Cambridge Elements: Quantitative and Computational Methods for Social Science, R.M. Alvarez and N. Beck, eds. Cambridge University Press.
 
 ## Software
-*interference*: An R package for designed-based estimation of spillover effects. With Peter Aronow and Cyrus Samii (Forthcoming).
+*interference*: An R package for designed-based estimation of spillover effects. With Peter Aronow and Cyrus Samii.
+<a href="https://github.com/szonszein/interference" rel="nofollow">(Github)</a>
