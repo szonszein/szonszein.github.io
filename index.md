@@ -17,7 +17,7 @@ I study the political behavior of immigrants and elites in the context of the US
 'Voted In, Standing Out: Elite Response to Immigrants' Political Accession'
 <a href="https://drive.google.com/file/d/17pFAG8-O-bPpfmcJSc9OJMhi8xOuBtCC/view?usp=sharing" rel="nofollow">(Abstract)</a>
 
-'Does Empathy Trump Anxiety? Experimental Evidence on Immigration Policy Preferences in Mexico', with Abraham Aldama, Antonella Bandiera and Mateo V\'asquez-Cort\'es.
+'Does Empathy Trump Anxiety? Experimental Evidence on Immigration Policy Preferences in Mexico', with Abraham Aldama, Antonella Bandiera and Mateo Vásquez-Cortés.
 <a href="https://drive.google.com/file/d/1E7a97j2035ypBHv1ib_tPIUJpbGIE45Z/view?usp=sharing" rel="nofollow">(Working Draft)</a>
 
 
