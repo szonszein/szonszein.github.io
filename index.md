@@ -12,10 +12,15 @@ I study the political behavior of immigrants and elites in the context of the US
 <a href="https://drive.google.com/file/d/15U7CeHwPcSk8xpKCJmfaBbWdC8FWSEap/view?usp=sharing" rel="nofollow">(Working Draft)</a>
 
 'Turn On, Tune In, Turn Out: Ethnic Radio and Immigrants’ Political Engagement'
-<a href="https://drive.google.com/file/d/18XqzhsYsm9G8QrLK_agkqXHWyzmxQRgS/view?usp=sharing"  rel="nofollow">(Abstract)</a>
+<a href="https://drive.google.com/file/d/1FLr78s8-zEwVXP6mD_FX7aVlf2E09U06/view?usp=sharing"  rel="nofollow">(Working Draft)</a>
 
 'Voted In, Standing Out: Elite Response to Immigrants' Political Accession'
 <a href="https://drive.google.com/file/d/17pFAG8-O-bPpfmcJSc9OJMhi8xOuBtCC/view?usp=sharing" rel="nofollow">(Abstract)</a>
+
+'Does Empathy Trump Anxiety? Experimental Evidence on Immigration Policy Preferences in Mexico', with Abraham Aldama, Antonella Bandiera and Mateo V\'asquez-Cort\'es.
+<a href="https://drive.google.com/file/d/1E7a97j2035ypBHv1ib_tPIUJpbGIE45Z/view?usp=sharing" rel="nofollow">(Working Draft)</a>
+
+
 
 ## Commissioned Monographs and Book Chapters
 'Spillover Effects in Experimental Data', with Peter Aronow, Dean Eckles and Cyrus Samii. Forthcoming in Advances in Experimental Political Science, J. N. Druckman and D. P. Green, eds. Cambridge University Press.
