@@ -5,7 +5,7 @@
 layout: default
 ---
 # Research
-I study the political behavior of immigrants and elites in the context of the US and the UK. The focus of my dissertation is on barriers to the integration of immigrants. I use administrative, survey, and newspaper data with causal inference and machine learning methods to analyze how legalization policies and ethnic media can promote integration, and also how the reaction of elites to minority immigrants gaining political power can hinder it. I hold a Bachelor's and a Master's in Economics from Instituto Tecnológico Autónomo de México.
+I study the political behavior of immigrants and elites in culturally diverse democracies. My research uses administrative, survey, and newspaper data with causal inference and machine learning methods to analyze how legalization policies and ethnic media can promote immigrants' integration, and also how the reaction of elites to minority immigrants gaining political power can hinder it. I completed my PhD in Politics at New York University and I hold a Bachelor's and a Master's in Economics from Instituto Tecnológico Autónomo de México.
 
 ## Working Papers
 'Taking Part without Blending In: Legalization Policies and the Integration of Immigrants'
