@@ -19,7 +19,7 @@ I study migration in advanced industrial societies in order to understand how di
 'Do Presidential Elections Prime Racial, National or Partisan Identities Among People of Color?', with Rahsaan Maxwell and Efrén Pérez. R&R at the *American Political Science Review*. <a href="https://drive.google.com/file/d/1UszQ65eg6j1sZ8FLZqBNZgfu3syewsXk/view?usp=sharing" rel="nofollow">(Working Draft)</a>
 
 ## Work in Progress
-'Voted In, Standing Out: Elite Response to Immigrants' Political Accession', with Guy Grossman
+'Voted In, Standing Out: Public Response to Immigrants' Political Accession', with Guy Grossman
 <a href="https://drive.google.com/file/d/17pFAG8-O-bPpfmcJSc9OJMhi8xOuBtCC/view?usp=sharing" rel="nofollow">(Abstract)</a>
 
 'Does Empathy Trump Anxiety? Experimental Evidence on Immigration Policy Preferences in Mexico', with Abraham Aldama, Antonella Bandiera and Mateo Vásquez-Cortés.
