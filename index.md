@@ -14,12 +14,12 @@ I study migration in advanced industrial societies in order to understand how di
 'Turn On, Tune In, Turn Out: Ethnic Radio and Immigrants’ Political Engagement'
 <a href="https://drive.google.com/file/d/1FLr78s8-zEwVXP6mD_FX7aVlf2E09U06/view?usp=sharing"  rel="nofollow">(Working Draft)</a>
 
-'Locked Down, Lashing Out: Situational Triggers and Hateful Behavior Towards Minority Ethnic Immigrants', with Gemma Dipoppa and Guy Grossman. R&R at the *Journal of Politics*. <a href="https://drive.google.com/file/d/1V8JhKsrRt8lGhEY2fTgiedwdyN4Eh8vy/view?usp=sharing" rel="nofollow">(Working Draft)</a>
-
-'Do Presidential Elections Prime Racial, National or Partisan Identities Among People of Color?', with Rahsaan Maxwell and Efrén Pérez. R&R at the *American Political Science Review*. <a href="https://drive.google.com/file/d/1UszQ65eg6j1sZ8FLZqBNZgfu3syewsXk/view?usp=sharing" rel="nofollow">(Working Draft)</a>
+'Locked Down, Lashing Out: Situational Triggers and Hateful Behavior Towards Minority Ethnic Immigrants', with Gemma Dipoppa and Guy Grossman. Conditionally accepted at the *Journal of Politics*. <a href="https://drive.google.com/file/d/1V8JhKsrRt8lGhEY2fTgiedwdyN4Eh8vy/view?usp=sharing" rel="nofollow">(Working Draft)</a>
 
 'Voted In, Standing Out: Public Response to Immigrants' Political Accession', with Guy Grossman
 <a href="https://drive.google.com/file/d/1aLJVgb7Ho5GEtZ-EBqFQgY1f7xyK6q0l/view?usp=sharing" rel="nofollow">(Working Draft)</a>
+
+'Expressive Partisanship among People of Color Before and After the 2020 U.S. Election', with Rahsaan Maxwell and Efrén Pérez <a href="https://drive.google.com/file/d/1hUCtz8qi_gET5gO_OIudwloJw_W5qIX0/view?usp=sharing" rel="nofollow">(Working Draft)</a>
 
 ## Work in Progress
 'Does Empathy Trump Anxiety? Experimental Evidence on Immigration Policy Preferences in Mexico', with Abraham Aldama, Antonella Bandiera and Mateo Vásquez-Cortés.
