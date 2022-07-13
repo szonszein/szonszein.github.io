@@ -7,14 +7,15 @@ layout: default
 # Research
 I study migration in advanced industrial societies in order to understand how different policies, circumstances, and external shocks shape the outcomes of migration, from the integration of migrants into the host society’s economic, social, and political life, to the maintenance of distinctive cultural identity, to the reactions of the native-born from acceptance to violence. My work applies causal inference and machine learning methods and uses large-scale administrative, survey, and media data. I hold a Bachelor's and a Master's in Economics from Instituto Tecnológico Autónomo de México, and a PhD in Political Science from New York University. Prior to arriving at Berkeley, I was a Postdoctoral Fellow at the University of Pennsylvania.
 
+## Publications
+'Locked Down, Lashing Out: COVID-19 Effects on Asian Hate Crimes in Italy', with Gemma Dipoppa and Guy Grossman. Accepted at the *Journal of Politics*. <a href="https://drive.google.com/file/d/1jicT7LeWYvmKEAFABWHU8betQgCelnhl/view?usp=sharing" rel="nofollow">(Working Draft)</a>
+
 ## Working Papers
 'Taking Part without Blending In: Legalization Policies and the Integration of Immigrants'
 <a href="https://drive.google.com/file/d/1YxTY0RCve3UC75b08twibr0XiZay8Cay/view?usp=sharing" rel="nofollow">(Working Draft)</a>
 
 'Turn On, Tune In, Turn Out: Ethnic Radio and Immigrants’ Political Engagement'
 <a href="https://drive.google.com/file/d/1FLr78s8-zEwVXP6mD_FX7aVlf2E09U06/view?usp=sharing"  rel="nofollow">(Working Draft)</a>
-
-'Locked Down, Lashing Out: COVID-19 Effects on Asian Hate Crimes in Italy', with Gemma Dipoppa and Guy Grossman. Accepted at the *Journal of Politics*. <a href="https://drive.google.com/file/d/1jicT7LeWYvmKEAFABWHU8betQgCelnhl/view?usp=sharing" rel="nofollow">(Working Draft)</a>
 
 'Voted In, Standing Out: Public Response to Immigrants' Political Accession', with Guy Grossman
 <a href="https://osf.io/xd4wk/" rel="nofollow">(Working Draft)</a>
