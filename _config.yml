@@ -16,9 +16,10 @@
 title: Stephanie Zonszein
 #email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Assistant Professor<br>
+  Assistant Professor of<br>
   Political Science<br>
-  University of California, Berkeley<br><br>
+  University of California,<br>
+  Berkeley<br><br>
   <img src="assets/pic.jpg" width="150" height="200" />
    <br><br><a href="https://drive.google.com/file/d/18WBMfJigcTf1n0kXGnwuRcfLl89oBDJl/view?usp=sharing">CV</a><br>
 baseurl: "" # the subpath of your site, e.g. /blog
