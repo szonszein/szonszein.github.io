@@ -19,10 +19,10 @@ I study migration in advanced industrial societies in order to understand how di
 'Turn On, Tune In, Turn Out: Ethnic Radio and Immigrants’ Political Engagement'
 <a href="https://drive.google.com/file/d/1FLr78s8-zEwVXP6mD_FX7aVlf2E09U06/view?usp=sharing"  rel="nofollow">(Working Draft)</a>
 
-'Voted In, Standing Out: Public Response to Immigrants' Political Accession', with Guy Grossman (Revise \& Resubmit)
+'Voted In, Standing Out: Public Response to Immigrants' Political Accession', with Guy Grossman (Revise & Resubmit)
 <a href="https://osf.io/xd4wk/" rel="nofollow">(Working Draft)</a>
 
-'Turnout Turnaround: Ethnic Minority Victories Mobilize White Voters', with Guy Grossman (Revise \& Resubmit)
+'Turnout Turnaround: Ethnic Minority Victories Mobilize White Voters', with Guy Grossman (Revise & Resubmit)
 <a href="https://osf.io/w2dg8/" rel="nofollow">(Working Draft)</a>
 
 ## Work in Progress
