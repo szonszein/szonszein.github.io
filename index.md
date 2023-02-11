@@ -8,7 +8,9 @@ layout: default
 I study migration in advanced industrial societies in order to understand how different policies, circumstances, and external shocks shape the outcomes of migration, from the integration of migrants into the host society’s economic, social, and political life, to the maintenance of distinctive cultural identity, to the reactions of the native-born from acceptance to violence. My work applies causal inference and machine learning methods and uses large-scale administrative, survey, and media data. I hold a Bachelor's and a Master's in Economics from Instituto Tecnológico Autónomo de México, and a PhD in Political Science from New York University. Prior to arriving at Berkeley, I was a Postdoctoral Fellow at the University of Pennsylvania.
 
 ## Publications
-'Locked Down, Lashing Out: COVID-19 Effects on Asian Hate Crimes in Italy', with Gemma Dipoppa and Guy Grossman. Accepted at the *Journal of Politics*. <a href="https://drive.google.com/file/d/1jicT7LeWYvmKEAFABWHU8betQgCelnhl/view?usp=sharing" rel="nofollow">(Draft)</a>
+'Locked Down, Lashing Out: COVID-19 Effects on Asian Hate Crimes in Italy', with Gemma Dipoppa and Guy Grossman. *Journal of Politics*, 2023. <a href="https://www.journals.uchicago.edu/doi/full/10.1086/722346" rel="nofollow">(Article)</a>
+
+'Basking in Their Glory? Expressive Partisanship among People of Color Before and After the 2020 US Election', with Rahsaan Maxwell and Efrén Pérez. *Journal of Experimental Political Science*, 2022. <a href="https://www.cambridge.org/core/journals/journal-of-experimental-political-science/article/basking-in-their-glory-expressive-partisanship-among-people-of-color-before-and-after-the-2020-us-election/F65BF2E00E0AFF233AC7D17E413E2665" rel="nofollow">(Short Report)</a>
 
 ## Working Papers
 'Taking Part without Blending In: Legalization Policies and the Integration of Immigrants'
@@ -17,13 +19,11 @@ I study migration in advanced industrial societies in order to understand how di
 'Turn On, Tune In, Turn Out: Ethnic Radio and Immigrants’ Political Engagement'
 <a href="https://drive.google.com/file/d/1FLr78s8-zEwVXP6mD_FX7aVlf2E09U06/view?usp=sharing"  rel="nofollow">(Working Draft)</a>
 
-'Voted In, Standing Out: Public Response to Immigrants' Political Accession', with Guy Grossman
+'Voted In, Standing Out: Public Response to Immigrants' Political Accession', with Guy Grossman (Revise \& Resubmit)
 <a href="https://osf.io/xd4wk/" rel="nofollow">(Working Draft)</a>
 
-'Turnout Turnaround: Ethnic Minority Victories Mobilize White Voters', with Guy Grossman
+'Turnout Turnaround: Ethnic Minority Victories Mobilize White Voters', with Guy Grossman (Revise \& Resubmit)
 <a href="https://osf.io/w2dg8/" rel="nofollow">(Working Draft)</a>
-
-'Expressive Partisanship among People of Color Before and After the 2020 U.S. Election', with Rahsaan Maxwell and Efrén Pérez <a href="https://drive.google.com/file/d/1hUCtz8qi_gET5gO_OIudwloJw_W5qIX0/view?usp=sharing" rel="nofollow">(Working Draft)</a>
 
 ## Work in Progress
 'Does Empathy Trump Anxiety? Experimental Evidence on Immigration Policy Preferences in Mexico', with Abraham Aldama, Antonella Bandiera and Mateo Vásquez-Cortés.
