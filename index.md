@@ -19,18 +19,20 @@ I study migration in advanced industrial societies in order to understand how di
 'Turn On, Tune In, Turn Out: Ethnic Radio and Immigrants’ Political Engagement'
 <a href="https://osf.io/n6qp8"  rel="nofollow">(Working Draft)</a>
 
+'Turnout Turnaround: Ethnic Minority Victories Mobilize White Voters', with Guy Grossman (Conditionally Accepted *American Political Science Review*)
+<a href="https://osf.io/w2dg8/" rel="nofollow">(Working Draft)</a>
+
 'Voted In, Standing Out: Public Response to Immigrants' Political Accession', with Guy Grossman (Revise & Resubmit)
 <a href="https://osf.io/xd4wk/" rel="nofollow">(Working Draft)</a>
 
-'Turnout Turnaround: Ethnic Minority Victories Mobilize White Voters', with Guy Grossman (Revise & Resubmit)
-<a href="https://osf.io/w2dg8/" rel="nofollow">(Working Draft)</a>
+'Conditional Enfranchisement: How Partisanship Determines Support for Noncitizen Voting Rights', with Hannah Alarian
+<a href="https://osf.io/mr7zh" rel="nofollow">(Working Draft)</a>
+
 
 ## Work in Progress
-'Does Empathy Trump Anxiety? Experimental Evidence on Immigration Policy Preferences in Mexico', with Abraham Aldama, Antonella Bandiera and Mateo Vásquez-Cortés.
-<a href="https://drive.google.com/file/d/1E7a97j2035ypBHv1ib_tPIUJpbGIE45Z/view?usp=sharing" rel="nofollow">(Working Draft)</a>
+'Immigrant Personal Narratives Reduce Exclusionary Attitudes Towards Immigration', with Abraham Aldama, Antonella Bandiera and Mateo Vásquez-Cortés
 
 'The Hidden Costs of Hiding: Immigration Policies and Health Care Utilization', with Fernanda Márquez-Padilla
-<a href="https://drive.google.com/file/d/1VMFzfW5DOGZAz8eNUOswETyauDqfD4sx/view?usp=sharing" rel="nofollow">(Abstract)</a>
 
 ## Commissioned Monographs and Book Chapters
 'Spillover Effects in Experimental Data', with Peter Aronow, Dean Eckles and Cyrus Samii. In J. Druckman and D. Green, eds. Advances in Experimental Political Science. Cambridge University Press.
