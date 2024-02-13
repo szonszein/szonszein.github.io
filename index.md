@@ -28,10 +28,9 @@ I study migration in advanced industrial societies in order to understand how di
 'Conditional Enfranchisement: How Partisanship Determines Support for Noncitizen Voting Rights', with Hannah Alarian (Revise & Resubmit)
 <a href="https://osf.io/mr7zh" rel="nofollow">(Working Draft)</a>
 
+'Immigrant Narratives Promote Inclusionary Attitudes Toward Immigration in the Global South', with Antonella Bandiera, Mateo Vásquez-Cortés and Abraham Aldama.<a href="https://osf.io/preprints/osf/xzhwv" rel="nofollow">(Working Draft)</a>
 
 ## Work in Progress
-'Immigrant Personal Narratives Reduce Exclusionary Attitudes Towards Immigration', with Abraham Aldama, Antonella Bandiera and Mateo Vásquez-Cortés
-
 'The Hidden Costs of Hiding: Immigration Policies and Health Care Utilization', with Fernanda Márquez-Padilla
 
 ## Commissioned Monographs and Book Chapters
