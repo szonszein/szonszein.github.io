@@ -25,10 +25,10 @@ I study migration in advanced industrial societies in order to understand how di
 'Voted In, Standing Out: Public Response to Immigrants' Political Accession', with Guy Grossman (Conditionally Accepted *American Journal of Political Science*)
 <a href="https://osf.io/xd4wk/" rel="nofollow">(Working Draft)</a>
 
-'Conditional Enfranchisement: How Partisanship Determines Support for Noncitizen Voting Rights', with Hannah Alarian (Revise & Resubmit)
+'Conditional Enfranchisement: How Partisanship Determines Support for Noncitizen Voting Rights', with Hannah Alarian (Conditionally Accepted *American Political Science Review*)
 <a href="https://osf.io/mr7zh" rel="nofollow">(Working Draft)</a>
 
-'Immigrant Narratives Promote Inclusionary Attitudes Toward Immigration in the Global South', with Antonella Bandiera, Mateo Vásquez-Cortés and Abraham Aldama.<a href="https://osf.io/preprints/osf/xzhwv" rel="nofollow">(Working Draft)</a>
+'Immigrant Narratives Promote Inclusionary Attitudes Toward Immigration in the Global South', with Antonella Bandiera, Mateo Vásquez-Cortés and Abraham Aldama. <a href="https://osf.io/preprints/osf/xzhwv" rel="nofollow">(Working Draft)</a>
 
 ## Work in Progress
 'The Hidden Costs of Hiding: Immigration Policies and Health Care Utilization', with Fernanda Márquez-Padilla
