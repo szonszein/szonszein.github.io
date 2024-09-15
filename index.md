@@ -9,9 +9,13 @@ I study migration in advanced industrial societies in order to understand how di
 
 ## Publications
 
-<a href="https://www.cambridge.org/core/journals/american-political-science-review/article/conditional-enfranchisement-how-partisanship-determines-support-for-noncitizen-voting-rights/30A9899F69BDEDDFF502D19B12E98D3C" rel="nofollow">'Conditional Enfranchisement: How Partisanship Determines Support for Noncitizen Voting Rights'</a>, with Hannah Alarian. Forthcoming *American Political Science Review*.
+<a href="https://onlinelibrary.wiley.com/doi/10.1111/ajps.12911?af=R" rel="nofollow">'Turn On, Tune In, Turn Out: Ethnic Radio and Immigrants’ Political Engagement'</a> *American Journal of Political Science*, 2024.
 
-<a href="https://www.cambridge.org/core/journals/american-political-science-review/article/turnout-turnaround-ethnic-minority-victories-mobilize-white-voters/2691D0ED674802DF7A9A71FA49A5A807" rel="nofollow">'Turnout Turnaround: Ethnic Minority Victories Mobilize White Voters'</a>, with Guy Grossman. Forthcoming *American Political Science Review*.
+<a href="https://onlinelibrary.wiley.com/doi/10.1111/ajps.12877" rel="nofollow">'Voted In, Standing Out: Public Response to Immigrants' Political Accession'</a>, with Guy Grossman. *American Journal of Political Science*, 2024.
+
+<a href="https://www.cambridge.org/core/journals/american-political-science-review/article/conditional-enfranchisement-how-partisanship-determines-support-for-noncitizen-voting-rights/30A9899F69BDEDDFF502D19B12E98D3C" rel="nofollow">'Conditional Enfranchisement: How Partisanship Determines Support for Noncitizen Voting Rights'</a>, with Hannah Alarian. *American Political Science Review*, 2024.
+
+<a href="https://www.cambridge.org/core/journals/american-political-science-review/article/turnout-turnaround-ethnic-minority-victories-mobilize-white-voters/2691D0ED674802DF7A9A71FA49A5A807" rel="nofollow">'Turnout Turnaround: Ethnic Minority Victories Mobilize White Voters'</a>, with Guy Grossman. *American Political Science Review*, 2023.
 
 <a href="https://www.journals.uchicago.edu/doi/10.1086/722346" rel="nofollow">'Locked Down, Lashing Out: COVID-19 Effects on Asian Hate Crimes in Italy'</a>, with Gemma Dipoppa and Guy Grossman. *Journal of Politics*, 2023.
 
@@ -21,13 +25,7 @@ I study migration in advanced industrial societies in order to understand how di
 'Taking Part without Blending In: Legalization Policies and the Integration of Immigrants'
 <a href="https://drive.google.com/file/d/1YxTY0RCve3UC75b08twibr0XiZay8Cay/view?usp=sharing" rel="nofollow">(Working Draft)</a>
 
-'Turn On, Tune In, Turn Out: Ethnic Radio and Immigrants’ Political Engagement' (Conditionally Accepted *American Journal of Political Science*)
-<a href="https://osf.io/n6qp8"  rel="nofollow">(Working Draft)</a>
-
-'Voted In, Standing Out: Public Response to Immigrants' Political Accession', with Guy Grossman (Accepted *American Journal of Political Science*)
-<a href="https://osf.io/xd4wk/" rel="nofollow">(Working Draft)</a>
-
-'Immigrant Narratives Promote Inclusionary Attitudes Toward Immigration in the Global South', with Antonella Bandiera, Mateo Vásquez-Cortés and Abraham Aldama. <a href="https://osf.io/preprints/osf/xzhwv" rel="nofollow">(Working Draft)</a>
+'Immigrant Narratives Promote Inclusionary Attitudes Toward Immigration in a Middle-Income Country', with Antonella Bandiera, Mateo Vásquez-Cortés and Abraham Aldama. <a href="https://osf.io/preprints/osf/xzhwv" rel="nofollow">(Working Draft)</a>
 
 ## Work in Progress
 'The Hidden Costs of Hiding: Immigration Policies and Health Care Utilization', with Fernanda Márquez-Padilla
@@ -35,8 +33,6 @@ I study migration in advanced industrial societies in order to understand how di
 ## Commissioned Monographs and Book Chapters
 'Spillover Effects in Experimental Data', with Peter Aronow, Dean Eckles and Cyrus Samii. In J. Druckman and D. Green, eds. Advances in Experimental Political Science. Cambridge University Press.
 <a href="https://arxiv.org/abs/2001.05444" rel="nofollow">(arxiv)</a>
-
-'Causal Inference with Interference', with Peter Aronow and Cyrus Samii. Monograph in preparation for Cambridge Elements: Quantitative and Computational Methods for Social Science, R.M. Alvarez and N. Beck, eds. Cambridge University Press.
 
 ## Software
 *interference*: An R package for designed-based estimation of spillover effects. With Peter Aronow and Cyrus Samii.
