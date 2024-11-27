@@ -21,7 +21,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   University of California,<br>
   Berkeley<br><br>
   <img src="assets/pic.jpg" width="150" height="200" />
-   <br><br><a href="https://drive.google.com/file/d/18WBMfJigcTf1n0kXGnwuRcfLl89oBDJl/view?usp=sharing">CV</a><br>
+   <br><br><a href="https://www.dropbox.com/scl/fi/iph7yxh5id07u8h0mzvfb/CV_Zonszein.pdf?rlkey=a5qknj6u526o47ffgko758u8y&st=fisuy8at&dl=0">CV</a><br>
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
