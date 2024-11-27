@@ -4,7 +4,7 @@
 
 layout: default
 ---
-# Research
+
 My research examines how immigrants are incorporated into the economic, political, and social life of their new countries through two complementary questions. First, how are immigrant outcomes shaped by policies and institutions? My findings from this strand of research suggest that structural and cultural assimilation need not go hand-in-hand: economic and political participation are in fact promoted by institutions accommodating cultural diversity, and policies promoting access to participation can allow for cultural maintenance. The second question asks, how do native-born populations respond to immigrant political incorporation? My research documents exclusionary responses from violence to political mobilization, but it also shows that these responses are in fact short lived. My work engages literatures across political science, sociology, and economics, and applies experimental and observational causal inference methods to large-scale administrative, media, and survey data. I have developed and I teach classes related to Latino politics and to immigration at the undergraduate level, and on observational causal inference methods at the graduate level. I hold a Bachelor's and a Master's in Economics from Instituto Tecnológico Autónomo de México, and a PhD in Political Science from New York University. Prior to arriving at Berkeley, I was a Postdoctoral Fellow at the University of Pennsylvania.
 
 ## Publications
