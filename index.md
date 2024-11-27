@@ -31,7 +31,7 @@ My research examines how immigrants are incorporated into the economic, politica
 'The Hidden Costs of Hiding: Immigration Policies and Health Care Utilization', with Fernanda Márquez-Padilla
 
 ## Commissioned Monographs and Book Chapters
-'Spillover Effects in Experimental Data', with Peter Aronow, Dean Eckles and Cyrus Samii. In J. Druckman and D. Green, eds. Advances in Experimental Political Science. Cambridge University Press.
+'Spillover Effects in Experimental Data', with P Aronow, Dean Eckles and Cyrus Samii. In J. Druckman and D. Green, eds. Advances in Experimental Political Science. Cambridge University Press.
 <a href="https://arxiv.org/abs/2001.05444" rel="nofollow">(arxiv)</a>
 
 ## Software
