@@ -27,6 +27,8 @@ My research examines how immigrants are incorporated into the economic, politica
 
 'Immigrant Narratives Promote Inclusionary Attitudes Toward Immigration in a Middle-Income Country', with Antonella Bandiera, Mateo Vásquez-Cortés and Abraham Aldama. <a href="https://osf.io/preprints/osf/xzhwv" rel="nofollow">(Working Draft)</a>
 
+'Calculation and Conscience: Motivations for the Substantive Representation of Ethnic Minorities', with Apurav Bhatiya, William Dinneen and Guy Grossman. <a href="https://doi.org/10.31219/osf.io/hfm35" rel="nofollow">(Working Draft)</a>
+
 ## Work in Progress
 'The Hidden Costs of Hiding: Immigration Policies and Health Care Utilization', with Fernanda Márquez-Padilla
 
