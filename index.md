@@ -23,7 +23,7 @@ My research examines how immigrants are incorporated into the economic, politica
 
 ## Working Papers
 'Taking Part without Blending In: Legalization Policies and the Integration of Immigrants'
-<a href="https://drive.google.com/file/d/1YxTY0RCve3UC75b08twibr0XiZay8Cay/view?usp=sharing" rel="nofollow">(Working Draft)</a>
+<a href="https://doi.org/10.31235/osf.io/q9wbd_v1" rel="nofollow">(Working Draft)</a>
 
 'Immigrant Narratives Promote Inclusionary Attitudes Toward Immigration in a Middle-Income Country', with Antonella Bandiera, Mateo Vásquez-Cortés and Abraham Aldama. <a href="https://osf.io/preprints/osf/xzhwv" rel="nofollow">(Working Draft)</a>
 
@@ -33,7 +33,9 @@ My research examines how immigrants are incorporated into the economic, politica
 'The Hidden Costs of Hiding: Immigration Policies and Health Care Utilization', with Fernanda Márquez-Padilla
 
 ## Commissioned Monographs and Book Chapters
-'Spillover Effects in Experimental Data', with P Aronow, Dean Eckles and Cyrus Samii. In J. Druckman and D. Green, eds. Advances in Experimental Political Science. Cambridge University Press.
+'Estimating Causal Effects in Experiments with Network Spillovers', with PM Aronow and Cyrus Samii. In Taha Yasseri, ed., Handbook of Computational Social Science. Cheltenham: Edward Elgar Publishers. <a href="https://www.dropbox.com/scl/fi/j8tylq4kpsaby8cq2cs1g/BK-EEP-Chp16.pdf?rlkey=yrx7dlkajrrjaqdewkbch7ozs&st=d3yixjes&dl=0" rel="nofollow">(Chapter 16)</a>
+
+'Spillover Effects in Experimental Data', with PM Aronow, Dean Eckles and Cyrus Samii. In J. Druckman and D. Green, eds., Advances in Experimental Political Science. Cambridge University Press.
 <a href="https://arxiv.org/abs/2001.05444" rel="nofollow">(arxiv)</a>
 
 ## Software
