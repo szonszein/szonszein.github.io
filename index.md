@@ -24,7 +24,7 @@ My research examines how immigrants are incorporated into the economic, politica
 
 ## Working Papers
 'Taking Part without Blending In: Legalization Policies and the Integration of Immigrants'
-<a href="https://doi.org/10.31235/osf.io/q9wbd_v1" rel="nofollow">(Working Draft)</a>
+<a href="https://doi.org/10.31235/osf.io/q9wbd_v2" rel="nofollow">(Working Draft)</a>
 
 'Calculation and Conscience: Motivations for the Substantive Representation of Ethnic Minorities', with Apurav Bhatiya, William Dinneen and Guy Grossman. <a href="https://doi.org/10.31219/osf.io/hfm35" rel="nofollow">(Working Draft)</a>
 
