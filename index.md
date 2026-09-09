@@ -8,6 +8,8 @@ layout: default
 My research examines how immigrants are incorporated into the economic, political, and social life of their new countries through two complementary questions. First, how are immigrant outcomes shaped by policies and institutions? My findings from this strand of research suggest that structural and cultural assimilation need not go hand-in-hand: economic and political participation are in fact promoted by institutions accommodating cultural diversity, and policies promoting access to participation can allow for cultural maintenance. The second question asks, how do native-born populations respond to immigrant political incorporation? My research documents exclusionary responses from violence to political mobilization, but it also shows that these responses are in fact short lived. My work engages literatures across political science, sociology, and economics, and applies experimental and observational causal inference methods to large-scale administrative, media, and survey data. I have developed and I teach classes related to Latino politics and to immigration at the undergraduate level, and on observational causal inference methods at the graduate level. I hold a Bachelor's and a Master's in Economics from Instituto Tecnológico Autónomo de México, and a PhD in Political Science from New York University. Prior to arriving at Berkeley, I was a Postdoctoral Fellow at the University of Pennsylvania.
 
 ## Publications
+<a href="https://doi.org/10.1017/S0007123426101690" rel="nofollow">'Calculation and Conscience: Motivations for the Substantive Representation of Ethnic Minorities'</a>, with Apurav Bhatiya, William Dinneen and Guy Grossman. *British Journal of Political Science*, 2026. 
+
 <a href="https://doi.org/10.1017/S0007123426101331" rel="nofollow">'Immigrant Narratives Promote Inclusionary Attitudes Toward Immigration in a Middle-Income Country'</a>, with Antonella Bandiera, Mateo Vásquez-Cortés and Abraham Aldama. *British Journal of Political Science*, 2026.
 
 <a href="https://onlinelibrary.wiley.com/doi/10.1111/ajps.12911?af=R" rel="nofollow">'Turn On, Tune In, Turn Out: Ethnic Radio and Immigrants’ Political Engagement'</a> *American Journal of Political Science*, 2024.
@@ -26,8 +28,6 @@ My research examines how immigrants are incorporated into the economic, politica
 'Taking Part without Blending In: Legalization Policies and the Integration of Immigrants'
 <a href="https://doi.org/10.31235/osf.io/q9wbd_v2" rel="nofollow">(Working Draft)</a>
 
-'Calculation and Conscience: Motivations for the Substantive Representation of Ethnic Minorities', with Apurav Bhatiya, William Dinneen and Guy Grossman. <a href="https://doi.org/10.31219/osf.io/hfm35" rel="nofollow">(Working Draft)</a>
-
 'Niches and Vacuums: Field Experiments on Community Media and Latino Political Engagement', with Yamil Vélez. <a href="https://doi.org/10.31235/osf.io/6jtsw_v1" rel="nofollow">(Working Draft)</a>
 
 ## Work in Progress
@@ -40,5 +40,5 @@ My research examines how immigrants are incorporated into the economic, politica
 <a href="https://arxiv.org/abs/2001.05444" rel="nofollow">(arxiv)</a>
 
 ## Software
-*interference*: An R package for designed-based estimation of spillover effects. With Peter Aronow and Cyrus Samii.
+*interference*: An R package for designed-based estimation of spillover effects. With Cyrus Samii.
 <a href="https://github.com/szonszein/interference" rel="nofollow">(Github)</a>
